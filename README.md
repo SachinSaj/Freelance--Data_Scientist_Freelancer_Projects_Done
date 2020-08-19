@@ -1,6 +1,6 @@
 # Freelance--Data_Scientist_Freelancer_Projects_Done
 
-## ** Both of the projects (1 & 2) were actually assignments given by the college to the students. That was shared with me to complete, with reasonble amount payment received from their side. **
+### ** Both of the projects (1 & 2) were actually assignments given by the college to the students. That was shared with me to complete, with reasonble amount payment received from their side. **
 
 #### Project_1: Fashion_MNIST_Image_Analysis_Using_CNN ( Assignment Name: Image Classification with Deep Feedforward Neural Network )
 
